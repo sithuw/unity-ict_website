@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+Allow: /
+Allow: /articles
+Allow: /articles/sys_admin_0100
+Allow: /articles/sys_admin_0101
+Allow: /articles/sys_admin_0109
